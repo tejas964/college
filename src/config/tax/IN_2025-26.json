@@ -1,0 +1,39 @@
+{
+  "ruleVersion": "IN-2025-26-draft-unverified",
+  "status": "UNVERIFIED: slab rates, rebate limits and presumptive limits must be checked against incometax.gov.in and the current Finance Act before any real use.",
+  "sourceUrl": "https://www.incometax.gov.in/",
+  "cessRate": 0.04,
+  "regimes": {
+    "new": {
+      "slabs": [
+        { "upTo": 400000, "rate": 0 },
+        { "upTo": 800000, "rate": 0.05 },
+        { "upTo": 1200000, "rate": 0.1 },
+        { "upTo": 1600000, "rate": 0.15 },
+        { "upTo": 2000000, "rate": 0.2 },
+        { "upTo": 2400000, "rate": 0.25 },
+        { "upTo": null, "rate": 0.3 }
+      ],
+      "rebate87A": {
+        "incomeLimit": 1200000,
+        "maxRebate": 60000
+      }
+    },
+    "old": {
+      "slabs": [
+        { "upTo": 250000, "rate": 0 },
+        { "upTo": 500000, "rate": 0.05 },
+        { "upTo": 1000000, "rate": 0.2 },
+        { "upTo": null, "rate": 0.3 }
+      ],
+      "rebate87A": {
+        "incomeLimit": 500000,
+        "maxRebate": 12500
+      }
+    }
+  },
+  "presumptive": {
+    "deemedRate": 0.06,
+    "turnoverLimitRupees": 30000000
+  }
+}

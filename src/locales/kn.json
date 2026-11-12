@@ -1,0 +1,15 @@
+{
+  "nav.today": "\u0C87\u0C82\u0CA6\u0CC1",
+  "nav.earn": "\u0C97\u0CB3\u0CBF\u0C95\u0CC6",
+  "nav.money": "\u0CB9\u0CA3",
+  "nav.plan": "\u0CAF\u0CCB\u0C9C\u0CA8\u0CC6",
+  "nav.me": "\u0CA8\u0CBE\u0CA8\u0CC1",
+  "shift.on": "\u0CB6\u0CBF\u0CAB\u0CCD\u0C9F\u0CCD\u0CA8\u0CB2\u0CCD\u0CB2\u0CBF",
+  "shift.off": "\u0CB6\u0CBF\u0CAB\u0CCD\u0C9F\u0CCD \u0CB9\u0CCA\u0CB0\u0C97\u0CC6",
+  "today.gaugeLabel": "\u0C97\u0CC1\u0CB0\u0CBF",
+  "today.toGo": "\u0CAC\u0CBE\u0C95\u0CBF",
+  "today.perHour": "\u0C97\u0C82\u0C9F\u0CC6\u0C97\u0CC6",
+  "today.runway": "\u0CA6\u0CBE\u0CB0\u0CBF",
+  "me.title": "\u0CA8\u0CBE\u0CA8\u0CC1",
+  "common.rupees": "₹"
+}
